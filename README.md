@@ -8,3 +8,4 @@ This is my first repository. I am starting to learn about github. So, there is n
 - Add files as needed, from vscode. 
 - Go to **source control** tab in vscode and **stage changes** for commit.
 - Press **commit** button to commit your changes, and put a commit message. 
+- Press **Sync Changes** button to push your commits to github.
